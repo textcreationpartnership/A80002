@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miscelanea medica, or, A supplement to kitchin-physick to which is added a short discourse on stoving and bathing : with some transient and occasional notes on Dr. George Thompsons galino-mempsis.</title>
+            <author>Cock, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80002</idno>
+            <idno type="STC">Wing C4793</idno>
+            <idno type="STC">ESTC R27091</idno>
+            <idno type="EEBO-CITATION">09642564</idno>
+            <idno type="OCLC">ocm 09642564</idno>
+            <idno type="VID">173099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1327:37, 2461:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Miscelanea medica, or, A supplement to kitchin-physick to which is added a short discourse on stoving and bathing : with some transient and occasional notes on Dr. George Thompsons galino-mempsis.</title>
+                  <author>Cock, Thomas.</author>
+               </titleStmt>
+               <extent>[6], 52 p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Epistola dedicatoria" (in Latin), signed: T.C.</note>
+                  <note>Item at UMI microfilm reel 2461 bound and filmed with: Kitchin-physick: or, Advice to the poor (Wing C4792B).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thomson, George, fl. 1648-1679.</term>
+               <term>Cookery for the sick.</term>
+               <term>Hydrotherapy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173099:1"/>
+            <pb facs="tcp:173099:1"/>
+            <p>
+               <hi>Miſcelanea Medica:</hi> OR, A SUPPLEMENT TO Kitchin-Phyſick; To which is added, A ſhort DISCOURSE ON STOVING AND BATHING: WITH Some tranſient and occaſional Notes on Dr. <hi>George Thomp<g ref="char:EOLhyphen"/>ſons</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <q>—<hi>Nec lex eſt juſtior ulla Quam necis artificis arte perire ſua.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1675.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173099:2"/>
+            <pb facs="tcp:173099:2"/>
+            <head>HIPPOCRATIS &amp; GALENI FAUTORIBUS, Speciatim Erudito viro, mihi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> obſervando, <hi>Thomae Austen</hi> Armigero, Mei amiciſſimo, Necnon Egregiè Doctis <hi>J. N.</hi> &amp; <hi>T. S.</hi> Medicinae Doctoribus.</head>
+            <p>
+               <hi>PEllae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Juveni, Cultor non ſufficit unus—</hi>
+               <pb facs="tcp:173099:3"/> Duos igitur tanto Heroi, diverſi generis, obtigiſſe, memoriae traditur, <hi>Crate<g ref="char:EOLhyphen"/>rum</hi> ſcilicet, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <hi>Hepheſtionem,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ab eodem appellatos. Quo<g ref="char:EOLhyphen"/>rum, ille quidem Regem, hic vero <hi>Alexandrum,</hi> co<g ref="char:EOLhyphen"/>luiſſe dicitur: Mihi quoque, in publicum prodeunti, ana<g ref="char:EOLhyphen"/>logo quopiam, multo magis opus eſſe, quis dubitet? Re<g ref="char:EOLhyphen"/>pertis enim libelli, &amp; cauſae quam tractat juſtiſſimae pa<g ref="char:EOLhyphen"/>tronis idoneis, alios etiam,
+<pb facs="tcp:173099:3"/> Scriptoris protectores, ex<g ref="char:EOLhyphen"/>quirendos facile perſenſi: Nec mora, Vos enim, viri egregii, illico mihi in men<g ref="char:EOLhyphen"/>tem rediiſtis, (unde quidem, (ut verius dicam) nun<g ref="char:EOLhyphen"/>quam abeſtis) qui me, ve<g ref="char:EOLhyphen"/>stra familiaritate, olim dignati, ſic me, ſic mea omnia, utcunque tenuia, e<g ref="char:EOLhyphen"/>ſtimatis, &amp; vel laudare, vel ſaltem excuſare, parati eſtis, ut aliis, hunc tracta<g ref="char:EOLhyphen"/>tum inſcribere, vel alios, mei Defenſores adoptare,
+<pb facs="tcp:173099:4"/> nefas duxerim.</p>
+            <p>De meipſo (more Chy<g ref="char:EOLhyphen"/>micorum ſpeciatim <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>G. T.</hi>) multa promittere modeſtia non patitur; &amp; quamvis mihi non ſum tam ſuffenus ut quidquam de me magno<g ref="char:EOLhyphen"/>perè pollicear, in utra<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ta<g ref="char:EOLhyphen"/>men Academiâ educato, ex<g ref="char:EOLhyphen"/>actis etiam viginti propè annis in ſtudio &amp; praxi Medicinae, Chymiae, &amp; A<g ref="char:EOLhyphen"/>natomiae, liceat mihi dicere me non prorſus ignarum eſſe
+<pb facs="tcp:173099:4"/> plurimorum, ſive Dogmatum ſive Experimentorum, quae alicujus in hâc arte momenti ſunt. Quapropter navem ſolvendi &amp; hunc oceanum diſcurrendi copiam facile mihi dandam confido, gra<g ref="char:EOLhyphen"/>tum aliquid &amp; utile huma<g ref="char:EOLhyphen"/>no generi exponere ſtuden<g ref="char:EOLhyphen"/>ti. Valete viri egregiè docti, Accipite hoc offe<g ref="char:EOLhyphen"/>rentem <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Pergite mi<g ref="char:EOLhyphen"/>hi (quod ſemper facitis) indulgere, mei<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> patrocini<g ref="char:EOLhyphen"/>um
+<pb facs="tcp:173099:5"/> ſuſcipere, dignemini: &amp; perpetuo favete</p>
+            <closer>
+               <signed>Addictiſſimo Veſtri, T. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:173099:5"/>
+            <head>
+               <hi>Miſcelanea Medica:</hi> OR, A SUPPLEMENT TO Kitchin-Phyſick.</head>
+            <head type="sub">The Second Part.</head>
+            <p>ALL Phyſicians whom we ought moſt to confide in, do conclude and have determined it as a moſt undoubted Truth, to <hi>cure</hi> with
+<pb n="2" facs="tcp:173099:6"/> 
+               <hi>contraries,</hi> and <hi>preſerve</hi> with Cordials, according to that confirm'd Aphoriſm of <hi>contraria contrariis</hi> curantur: <hi>Similia ſi<g ref="char:EOLhyphen"/>milibus,</hi> conſervantur.</p>
+            <p>
+               <hi>Paracelſus, Theophraſtus, Bom<g ref="char:EOLhyphen"/>bastus, Van-Helmont,</hi> and ſome of their late conceited Diſci<g ref="char:EOLhyphen"/>ples, without taking any notice of this diſtinction, do <hi>morbum morbo curare:</hi> and venture to attempt the putting out of fire with fire: Or, curing hot Diſ<g ref="char:EOLhyphen"/>eaſes with hot Medicines, and conſequently cold Diſeaſes with cold. <hi>Hippocrates, Galen,</hi> and their more aged Off-ſpring; on the other hand judge it more reaſonable and practicable to put out fire with water; and to ſubdue the cold effects of water, by heat or fire: and to this end, if the Diſeaſe be hot and dry, as a Fever, they ad<g ref="char:EOLhyphen"/>viſe
+<pb n="3" facs="tcp:173099:6"/> ſuch Food and Phyſick, as is cold and moiſt; and hot and dry Meats and Medicines to ſubdue a diſeaſe that is moiſt and cold; never neglecting (as is ſuppoſed by the Chymiſt) to ſupply <hi>Nature,</hi> though not the <hi>Diſeaſe,</hi> with convenient, de<g ref="char:EOLhyphen"/>lightful, and proper Cordials, always remembring, not to <hi>nou<g ref="char:EOLhyphen"/>riſh,</hi> but to oppoſe a Diſeaſe, with things that remove, or al<g ref="char:EOLhyphen"/>ter it by their qualities.</p>
+            <p>We are much beholden to the temperament and qualities of things, for the preſervation of our health, and curing Diſ<g ref="char:EOLhyphen"/>eaſes, nor is there, through the benignity and bounty of God, any accident or diſtemper, but hath its remedy aſſigned it, by the matter, form, temperament or qualities of Medicines, knew we but <hi>certainly</hi> how, and when
+<pb n="4" facs="tcp:173099:7"/> to apply them: and therefore it is, that <hi>Phyſiology,</hi> and all the five parts of Phyſick, are more abſolutely neceſſary, than the moſt exalted, and accurate Medicines of the Chymiſt: and though by ſome (who know the vulgar neither do, nor will know any thing but what is vulgar) the Galeniſt and Chy<g ref="char:EOLhyphen"/>miſt are repreſented, as two diſtinct, different and inconſi<g ref="char:EOLhyphen"/>ſtent things, yet 'tis certain, they both ſerve but to make up one intire Artiſt: And I could tell you <hi>Eugenius</hi> not only of ſome Phyſicians, but ſome alſo of your own profeſſion, that can compare, if not out-do the greateſt Don and Heroes (as they think themſelves) of the Chymical and Hermetick Sect: And becauſe you may depend upon it for a Truth, that all
+<pb n="5" facs="tcp:173099:7"/> Diſeaſes and Remedies, may as well and better be compre<g ref="char:EOLhyphen"/>hended under ſome of the ſim<g ref="char:EOLhyphen"/>ple or compound Qualities, than any other invented <hi>Idea,</hi> Name or Notion whatever of the conceited Chymiſt, to this very end, the foregoing Chapters in the firſt Part, have given you a practical account of ſuch things, as do <hi>preſerve</hi> by their <hi>agreement</hi> with Nature, and <hi>cure</hi> by their <hi>contrariety</hi> to the Diſeaſe; and not to adviſe people to a Diet, that is an<g ref="char:EOLhyphen"/>ſwerable to their Diſeaſe and Phyſick they are preſcribed, is to ruine them: nor are they by any but conceited Practiti<g ref="char:EOLhyphen"/>oners and Humoriſts, to be left at large, to feed as they think ſit on old Cheeſe, Red-herring, or to inflame themſelves with the more ſubtil and penetrating
+<pb n="6" facs="tcp:173099:8"/> Spirits of Brandy, Punch and <hi>Aqua Vitae,</hi> which, though at firſt they ſeem to content Na<g ref="char:EOLhyphen"/>ture, and exalt the <hi>Archeus,</hi> or vital and natural heat of our bodies, yet they ſo alter alſo the natural tone, temper and fer<g ref="char:EOLhyphen"/>ments of the pancreas, blood and ſtomach, that (in a little time) they leave them languid, faint and vappid: By theſe things the Chymiſt may for a while, ſeemingly make his <hi>Ar<g ref="char:EOLhyphen"/>cheus</hi> or Nature blaze the bet<g ref="char:EOLhyphen"/>ter; but (like a Torch with often beating) it will certainly burn out the ſooner: and 'tis rare to find any accuſtomed Brandy, or <hi>Aqua vitae</hi> Bubber, when once ſick ever to reco<g ref="char:EOLhyphen"/>ver, becauſe the frequent uſe of ſuch things, make all other Cor<g ref="char:EOLhyphen"/>dials uſeleſs and invalid in time of ſickneſs, <hi>and</hi> when Nature
+<pb n="7" facs="tcp:173099:8"/> 
+               <hi>ſhould</hi> ſtand moſt in need of them. Beſides, they either at firſt ſo inflame the vital Spirits, as to produce ſuch acute, ſharp, and ſudden Diſeaſes, as Fevers, Apoplexies, and the like, or elſe in time (as one fire puts out a<g ref="char:EOLhyphen"/>nother) they extinguiſh the vital heat and moiſture, and thereby occaſion ſuch chronick and fatal Diſeaſes, as Gouts, Dropſies, Palſies, Hecticks, Scorbuts, Conſumptions, and death it ſelf.</p>
+            <p>In ſhort, our blood and ſpi<g ref="char:EOLhyphen"/>rits may as well be too much <hi>a<g ref="char:EOLhyphen"/>gita<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed</hi> as <hi>idle,</hi> and the vola<g ref="char:EOLhyphen"/>til Salts may ſtand in as much need of fixing, as the fixed Salts of volatizing, nor is their leſs danger in one than the other: and how the Chymiſt, only with his hot fiery Cordial Spirits at one and the ſame time, can
+<pb n="8" facs="tcp:173099:9"/> ſerve two ſuch different Ma<g ref="char:EOLhyphen"/>ſters, I underſtand not, and muſt herein ſubmit to better judgements than my own, and ſurely, ſuch a modeſt and man<g ref="char:EOLhyphen"/>nerly condeſcention, as this would have better become <hi>Mempſis,</hi> than an unmanly diſ<g ref="char:EOLhyphen"/>daining others to magnifie him<g ref="char:EOLhyphen"/>ſelf; nothing being more in<g ref="char:EOLhyphen"/>tolerable and baſe, than inur<g ref="char:EOLhyphen"/>banity: Nor can I but wonder with what confidence he can pretend (as he does, page 187) to ſubdue the irregular paſſions, and reform the <hi>ſinful</hi> inclinati<g ref="char:EOLhyphen"/>ons of others by his Medicines, when, after ſo many thouſand Doſes, as he ſays he has taken himſelf, (only to animate others) as yet he has not conquer'd his own: his prevaricating in this is enough on all occaſions, to call in queſtion his integrity,
+<pb n="9" facs="tcp:173099:9"/> and to make him ſuſpected a—Chymiſt: Nor are we ſo much to confide in the loud <hi>Hyper<g ref="char:EOLhyphen"/>bolies</hi> of his Medicines, and great brags that are daily made of <hi>Pantamagogons, Alexi-ſtoma<g ref="char:EOLhyphen"/>chons,</hi> &amp;c. As to ſome few well digeſted inſtitutions, that may practically relate to the ſix non-Naturals, and a Directory for Diet.</p>
+            <p>Like Food, like Fleſh, like Meat, like Medicine, was once almoſt grown proverbial: and ſome old Philoſophers, by the continual ſucceſſion of new mat<g ref="char:EOLhyphen"/>ter by Aliments; have <hi>not only</hi> affirmed; that from ſick men we may become ſound <hi>men:</hi> but of late the Chymiſts have ſo improv'd, and advanced the Notion in behalf of their Ae<g ref="char:EOLhyphen"/>therial, and ſupernatural Spi<g ref="char:EOLhyphen"/>rits, that we may (ſay they)
+<pb n="10" facs="tcp:173099:10"/> alſo become <hi>new men;</hi> and one of the beſt and moſt accom<g ref="char:EOLhyphen"/>pliſh'd of the Chymical Cabal (meaning <hi>Mempſis</hi>) has under<g ref="char:EOLhyphen"/>taken (on condition his Maje<g ref="char:EOLhyphen"/>ſty will be gracious to that pro<g ref="char:EOLhyphen"/>feſſion) not only to cure his Subjects of Incontinency, A<g ref="char:EOLhyphen"/>theiſm, Profaneneſs, and all manner of Sin and Debauche<g ref="char:EOLhyphen"/>ry: But will make them alſo Juſt, Devout, Loyal and Reli<g ref="char:EOLhyphen"/>gious, only by cokeſing, tame<g ref="char:EOLhyphen"/>ing, and tickling the <hi>Archeus</hi> with his Hermetick and Chymi<g ref="char:EOLhyphen"/>cal preparations: and to grati<g ref="char:EOLhyphen"/>fie farther, his ſacred royal <hi>Ma<g ref="char:EOLhyphen"/>ster</hi> for ſo great a kindneſs he engages (to uſe his own words, pag. 187. of his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) by the powerful operation of his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (<hi>i. e.</hi> in plain Eng<g ref="char:EOLhyphen"/>liſh his profound skill in Phy<g ref="char:EOLhyphen"/>ſick) to <hi>convert Quakers, Cata<g ref="char:EOLhyphen"/>baptists,
+<pb n="11" facs="tcp:173099:10"/> Independents, Separatiſts, Schiſmaticks</hi> &amp; the <hi>multitude</hi> of <hi>Phanaticks</hi> to the <hi>Church of Eng<g ref="char:EOLhyphen"/>land.</hi> Do this, &amp; thou ſhalt have my conſent, not only to be ho<g ref="char:EOLhyphen"/>neſt <hi>George,</hi> Doctor <hi>George,</hi> and <hi>George</hi> the Doctor: But Sir <hi>George,</hi> St. <hi>George,</hi> and <hi>George</hi> the Saint.</p>
+            <p>But in good earneſt I wiſh, dear Doctor, thou hadſt con<g ref="char:EOLhyphen"/>ceil'd the Divine and Moral operations of thy Medicines, upon the hearts and conſciences of poor Mortals, becauſe in theſe his Majeſties Dominions thou canſt now never more hope for any practice and employ as a Medicaſter: for ſurely the pro<g ref="char:EOLhyphen"/>fane Cavalier he'l not meddle with thee, for fear of being made a Schiſmatick, a religious Rebel or Round-head: Nor will I'm ſure the devout Phana<g ref="char:EOLhyphen"/>tick, for fear of being damn'd
+<pb n="12" facs="tcp:173099:11"/> for an Atheiſt, a debauch'd and honeſt Royaliſt: now then or never recant, and own the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Contrarieties:</hi> now, now or never is the time to make it appear and convince the ignorant Heretical, Repro<g ref="char:EOLhyphen"/>bate, and unconverted <hi>Galenist,</hi> that thy Chymical and Her<g ref="char:EOLhyphen"/>metick Phyſick, can at one and the ſame time work ſuch con<g ref="char:EOLhyphen"/>trary effects, as to make the Serpent (thy ſelf dear Doctor) a Saint; a Royaliſt, a Round<g ref="char:EOLhyphen"/>head, and a Rebel a Royaliſt; Now I ſay is the time, the very time for thee, O <hi>Mempſis,</hi> to work theſe wonders; or elſe, (with pity and compaſſion I ſpeak it) thou muſt, I, thou muſt pack up, and be gone into ſome of thoſe horrid regions, where people are neither for God nor the King; for King nor Parliment,
+<pb n="13" facs="tcp:173099:11"/> no, nor for my Lord Mayor, nor Common-council.</p>
+            <p>I wiſh alſo, that the <hi>Doctor</hi> had not intimated, and ſuggeſt<g ref="char:EOLhyphen"/>ed to his Majeſty that in good conſcience (for the good ſervice he has done himſelf, and Royal Father of bleſſed Memory) he ought, or can do no leſs than o<g ref="char:EOLhyphen"/>verthrow, or at leaſt new Mo<g ref="char:EOLhyphen"/>del, and purge with his reform<g ref="char:EOLhyphen"/>ing <hi>Phyſick,</hi> his College of Phy<g ref="char:EOLhyphen"/>ſicians, and two famous Univer<g ref="char:EOLhyphen"/>ties, <hi>Cambridge</hi> and <hi>Oxford.</hi>
+            </p>
+            <p>But above all things, after all thy glorious boaſts and brags of Loyalty, thou wert be<g ref="char:EOLhyphen"/>witch'd to petition the Parlia<g ref="char:EOLhyphen"/>ment for no leſs (in effect) than his Majeſties; there own, and the peoples lives and liberties: for what difference is there be<g ref="char:EOLhyphen"/>twixt their being <hi>ruin'd,</hi> and their <hi>erecting</hi> a <hi>College</hi> for <hi>Memp<g ref="char:EOLhyphen"/>ſis,</hi>
+               <pb n="14" facs="tcp:173099:12"/> with immunities for him, his Heirs and Aſſigns to <hi>diſ<g ref="char:EOLhyphen"/>penſe all</hi> the Medicines, that muſt be made uſe of in his Ma<g ref="char:EOLhyphen"/>jeſties Dominions.</p>
+            <p>This <hi>George,</hi> however rea<g ref="char:EOLhyphen"/>ſonable, and neceſſary it ſeems to thy ſelf; yet, after thou haſt fluttered a little longer like a Feather in the wind, thou wilt find that the Parliament will let thee drop, and take no more notice of thy Phanatick Freeks and frisking Seminalities of thy brain, than if a Tom-tit-mous, an Owl, or a Jack-daw had flown over <hi>Weſtminſter.</hi> Let Wiſdom baul, and utter her voice never ſo loud: let her ſcream and tear her throat in pieces; 'tis (as thou ſayſt <hi>George</hi>) all one, as if thou ſhouldſt vo<g ref="char:EOLhyphen"/>ciferate Neptune to forbear ſwallowing up Ships, ſince 'tis
+<pb n="15" facs="tcp:173099:12"/> his Nature to do ſuch dirty and miſchievous tricks: All which the Lord Mayor, and Court of Aldermen taking into their con<g ref="char:EOLhyphen"/>ſideration, and that there's no hope, that either the King or Parliament will accommodate thee with a College; our Se<g ref="char:EOLhyphen"/>nators and City Heroes are at this time preparing one for thee at <hi>Moor-gate.</hi>
+            </p>
+            <p>And now, ſeeing he is ſo hardly dealt with; let his Ma<g ref="char:EOLhyphen"/>jeſty, his two Houſes, his Nobi<g ref="char:EOLhyphen"/>lity and Gentry; the Biſhops and Clergy; the Lawyers and Laity; the whole City, Town and Country look to it as they will, 'tis to be feared, that what<g ref="char:EOLhyphen"/>ever Chymick and Hermetick Phyſick can do, ſhall be done to have the ſame effects on them as on himſelf: and (if Heaven helps not) convert them all to
+<pb n="16" facs="tcp:173099:13"/> non conformity, faction and ſe<g ref="char:EOLhyphen"/>dition.</p>
+            <p>This zealous <hi>Mempſis</hi> in a<g ref="char:EOLhyphen"/>nother place of his <hi>Evangeli<g ref="char:EOLhyphen"/>um Chymicum</hi> (for all he ſays is Goſpel) has a hymn to his Creator (and by the way let me ſolemnly tell him, I wonder how he dare concern ſo great a God! in his little deſigns) for putting it into the hearts of <hi>rusticks</hi> and <hi>Mariners,</hi> with their Punch, Brandy, and <hi>A<g ref="char:EOLhyphen"/>qua vitae</hi> bottles, to teach ſot<g ref="char:EOLhyphen"/>tiſh <hi>Galenists,</hi> the uſe and ex<g ref="char:EOLhyphen"/>cellencies of his well diſtilled Spirits, and the foolery of their dull Julips, fulſom and fruit<g ref="char:EOLhyphen"/>leſs Apozems, Bochets, Cullices and Gellies, as you may read at large in ſeveral Paragraphs and Pages of his Book.</p>
+            <p>But to leave theſe extrava<g ref="char:EOLhyphen"/>gancies, and flurts of the Hy<g ref="char:EOLhyphen"/>pocondres:
+<pb n="17" facs="tcp:173099:13"/> Lets hear what <hi>Ga<g ref="char:EOLhyphen"/>len</hi> upon <hi>Hippocrates</hi> ſays con<g ref="char:EOLhyphen"/>cerning this affair of Aliments: <q>This grave Philoſopher in his Book <hi>De Elementis,</hi> tells us, that by a diſſent of the firſt <hi>qualities</hi> (not from the <hi>Pun<g ref="char:EOLhyphen"/>ctum latens,</hi> the little Atoms in the <hi>Archeus,</hi> and Seminal <hi>Idaeas</hi> in the <hi>Materia primâ,</hi>
+               </q> as our inſpired <hi>Mempſis</hi> will have it) but from the diſſent of theſe firſt Qualities, ſays our Author, which proceeds immediately from the Elements themſelves, and the Aliments; man is born for the Phyſician, and were it not for the defects proceeding from theſe two, man could ne<g ref="char:EOLhyphen"/>ver dye.</p>
+            <p>From the four Elements, come the four Qualities of heat, cold, drineſs and moiſture: from theſe ariſe the tem<g ref="char:EOLhyphen"/>peraments
+<pb n="18" facs="tcp:173099:14"/> of Aliments; and from our Aliments, come the four humours, call'd Choler, Phlegm, Blood and Melancho<g ref="char:EOLhyphen"/>ly; and out of theſe humours the parts; and from thoſe parts the whole, or what we call a humane body: and when any of theſe four temperaments or humours are extinct, deprav'd or hurt in Quantity, Quality, or Motion, then follows Sick<g ref="char:EOLhyphen"/>neſs and Death: So that in effect, Life and Death, and e<g ref="char:EOLhyphen"/>very mans temper and conſtitu<g ref="char:EOLhyphen"/>tion, depends more or leſs up<g ref="char:EOLhyphen"/>on the Aliments he feeds on; and the humours themſelves are nothing more than the ef<g ref="char:EOLhyphen"/>fect of food, <hi>v. .g Choler</hi> is the <hi>fomes</hi> of blood made of <hi>Ali<g ref="char:EOLhyphen"/>ments</hi> over digeſted and con<g ref="char:EOLhyphen"/>cocted, and ſerves to ferment, agitate, or <hi>brisk up the con<g ref="char:EOLhyphen"/>ſtipated
+<pb n="19" facs="tcp:173099:14"/> Ideas of the Archeus.</hi> Flegm is made of <hi>Food,</hi> (for want of natural heat) not e<g ref="char:EOLhyphen"/>nough concocted, and bridles choler, and keeps the blood and humours from burninig, tames, and fixes the Spirits, and makes the body, cool, fat, moiſt and ſoluble. Blood is made of <hi>Food,</hi> perfectly elaborated to augment and nouriſh the parts: good Food makes good Blood; and good Blood makes good Fleſh: So that in effect, Fleſh and Blood is only good Food. Melancholy is the <hi>Ter<g ref="char:EOLhyphen"/>ra damnata:</hi> The Devil, the thick and droſſie part of <hi>Food</hi> and Blood; and was intended by Nature to bridle the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>fomes</hi> or froth of ſperm and ſpirits; to temper rage and luſt, to compoſe the thoughts and imaginations:
+<pb n="20" facs="tcp:173099:15"/> but being deprav'd, it works contrary effects, as we ſee in our friend <hi>Mempſis.</hi>
+            </p>
+            <p>From this little repreſenta<g ref="char:EOLhyphen"/>tion of man, an intelligent, and conſidering perſon may find out as eaſily, as by the <hi>Idaeas, Atomes,</hi> or Magots in the <hi>Archeus,</hi> how we come by Diſeaſes, our diſ<g ref="char:EOLhyphen"/>ſolution and death; and alſo how neceſſary, a direct and due diet, ſuch a diet as may anſwer to the four tempera<g ref="char:EOLhyphen"/>ments, and humours of our bodies, choler, phlegm, blood, and Melancholy: how neceſ<g ref="char:EOLhyphen"/>ſary this (I ſay) is for the pre<g ref="char:EOLhyphen"/>venting, and curing Diſeaſes; as might be farther amplified, but that I muſt avoid <hi>prolixity,</hi> that the Book may not be too chargeable for the poor: Or elſe it might be made evident, that a diet may be collected,
+<pb n="21" facs="tcp:173099:15"/> not only to <hi>heat, cool, dry</hi> and <hi>moisten,</hi> but alſo to
+<table>
+                  <row>
+                     <cell>Bind</cell>
+                     <cell>Thicken</cell>
+                     <cell>Lenifie</cell>
+                  </row>
+                  <row>
+                     <cell>Relax</cell>
+                     <cell>Thin</cell>
+                     <cell>Revel</cell>
+                  </row>
+                  <row>
+                     <cell>Reſtore</cell>
+                     <cell>Deobſtruate</cell>
+                     <cell>Reſiſt Poyſon</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And all things elſe, that Pharmacy it ſelf can ne<g ref="char:EOLhyphen"/>ceſſarily lay claim to, to<g ref="char:EOLhyphen"/>wards the conſervation of man. But this will not conſiſt with a ſhort eſſay, and therefore as conciſely, as the ſubject will permit, I ſhall only add a deſcripti<g ref="char:EOLhyphen"/>on of the Nature, Uſe and Vertues of an <hi>Artificial
+<pb n="22" facs="tcp:173099:16"/> Bath,</hi> and ſtove hereun<g ref="char:EOLhyphen"/>to annex'd; with which, our <hi>Ambroſiopaeas,</hi> and a proper Diet may be per<g ref="char:EOLhyphen"/>formed as much as can rea<g ref="char:EOLhyphen"/>ſonably be expected from the means.</p>
+            <p>What a help it is to Na<g ref="char:EOLhyphen"/>ture, to throw off by ſweat thoſe ſaline, acid, ſulphure<g ref="char:EOLhyphen"/>ous, and corroſive particles of blood, which are the root of all Diſeaſes, is manifeſted by the daily experience of ſuch as are daily relieved by it, in Gouts, Scorbuts, Hecticks, the Evil, Palſies, and the
+<pb n="23" facs="tcp:173099:16"/> like: as it helps thus to diſcharge the <hi>Serum Sal<g ref="char:EOLhyphen"/>ſum,</hi> the ſalt, ſharp and watery parts of blood by the skin; how far this, I ſay, may extend it ſelf, both for the preventing and curing many potent Diſeaſes, when Diet and other Remedies are de<g ref="char:EOLhyphen"/>ficient, and cannot do it, I leave to the bounty of a prudent and liberal conception.</p>
+            <p>It is ſo contriv'd that 'tis impoſſible for the pa<g ref="char:EOLhyphen"/>tient to take cold, to faint or ſweat beyond their
+<pb n="24" facs="tcp:173099:17"/> ſtrength, and own incli<g ref="char:EOLhyphen"/>nations; nor is there any nuiſſance in it, that is in<g ref="char:EOLhyphen"/>cident to Stoving, or ſweat<g ref="char:EOLhyphen"/>ing in other Baths.</p>
+            <p>Place here the Figure.</p>
+            <pb facs="tcp:173099:17"/>
+            <figure/>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb facs="tcp:173099:18"/>
+            <pb n="25" facs="tcp:173099:18"/>
+            <head>AN APPENDIX: OR Practical Cautions AND DIRECTIONS To be obſerved about STOVING AND BATHING.</head>
+            <p>
+               <hi>STtoving</hi> and <hi>Bathing</hi> are two different things: the firſt may not improperly be call'd a dry Bath, the other a wet; and
+<pb n="26" facs="tcp:173099:19"/> when ever you meet with the word Bath, you are to underſtand ſweating in ſomething that is liquid, as luke-warm Milk, Milk and Water, or only warm water, or water prepared with ingredients proper for the diſeaſed perſon.</p>
+            <p>Note alſo, that a Bath with very hot water, drys more than it moiſtens, and contracts the skin and pores, rather than relax or open them; and ſerves to ſupply the intention of a cold Bath; or bathing in cold water with ſuch parts &amp; perſons, as cannot ſafely go into cold water: But a
+<pb n="27" facs="tcp:173099:19"/> Bath of <hi>heated,</hi> tepid, or <hi>warm</hi> water, is of ſo great a latitude, that it extends it ſelf to moſt Diſeaſes, and ſerves (to uſe the words of a learned Author on this ſubject, Dr. <hi>J. F.</hi>) effectu<g ref="char:EOLhyphen"/>ally more than any thing Phyſick is preſcribed for, to defecate the blood and humours, to mollifie the hardneſs of the Spleen and bowels, to moiſten, cool, and nouriſh a hot and dry conſtitution and liver, to rarifie and reſolve alſo all cold congealed humours, and to prevent Barrenneſs and miſcarrying, that is oc<g ref="char:EOLhyphen"/>caſioned by any <hi>intempe<g ref="char:EOLhyphen"/>ries</hi>
+               <pb n="28" facs="tcp:173099:20"/> of cold, heat or dry<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>When you meet with the word Stove, you are to underſtand ſweating as in a Hot-houſe, <hi>without</hi> any thing that is moiſt and li<g ref="char:EOLhyphen"/>quid: You will alſo ſome<g ref="char:EOLhyphen"/>times find the word <hi>Vapo<g ref="char:EOLhyphen"/>rarium</hi> uſed in this Ap<g ref="char:EOLhyphen"/>pendix, the meaning of which will be known here<g ref="char:EOLhyphen"/>after.</p>
+            <p>The Romans were moſt addicted to Bains or Baths; the Lacedemonians, Ruſſi<g ref="char:EOLhyphen"/>ans, Germans, and moſt <hi>Northern</hi> Nations to Stoves: The Turks, French and I<g ref="char:EOLhyphen"/>talians, uſe both Baths and
+<pb n="29" facs="tcp:173099:20"/> Stoves: and as ſoon as they come out of the Stove, they enter into a Bain or Bath of warm water, to waſh away the recrements, ſlime, mador or mud (as it were) that ſtoving with<g ref="char:EOLhyphen"/>out bathing is apt to leave upon the skin.</p>
+            <p>By this means alſo, the skin is not only made pure, clean and ſmooth, but alſo plump and fleſhy: and according as the Bath may be dulcified and prepared, it will nouriſh, feed and refreſh the limbs and muſ<g ref="char:EOLhyphen"/>culous parts, more than food: nor is there any thing to be done by the
+<pb n="30" facs="tcp:173099:21"/> natural Baths at <hi>Bathe,</hi> but may be alſo performed by artificial Baths of Sulphur, Bitumen, Nitre, <hi>&amp;c.</hi> and being adviſedly uſed, they do as manifeſtly anſwer the expectation of the pa<g ref="char:EOLhyphen"/>tient, as any remedies whatever; in order to which obſerve theſe few Directions.</p>
+            <p n="1">1. Never Stove when the blood wants ferment, or (according to the Noti<g ref="char:EOLhyphen"/>on of the Chymiſt) when the fixed ſalts of the blood have over-ruled the volatil, as in Dropſies, and ſome ſorts of Scurvies: But when the Sulphur of the blood
+<pb n="31" facs="tcp:173099:21"/> is too much exalted (the fomes of moſt acute diſ<g ref="char:EOLhyphen"/>eaſes) or acrimony and a<g ref="char:EOLhyphen"/>cidity has inſinuated it ſelf into the Maſs, and yet the blood not vapid, then the Stove is a proper, and moſt effectual remedy: Or, more plainly, according to the ſignificant, apparent, and practical meaning of the Galeniſt; Stoving is not ſo proper and beneficial, for weak, lean, hot, hectick, dry, cholerick, maciated, melancholy and ſqualid bodies, as bathing; nor bathing for cold, moiſt, fat, corpulent, plethorick, phlegmatick &amp; hydropick
+<pb n="32" facs="tcp:173099:22"/> conſtitutions and diſeaſes, as ſtoving: The Stove is moſt proper for the Spring, Autum and Winter; the Bath for the heat of Sum<g ref="char:EOLhyphen"/>mer: the <hi>Vaporarium</hi> is neither bathing nor ſtove<g ref="char:EOLhyphen"/>ing, but differing from both, and to be uſed by all ſorts of perſons at any time.</p>
+            <p n="2">2. Before you Bathe, or enter into the Stove; if your body be not natural<g ref="char:EOLhyphen"/>ly ſoluble, be ſure it be made ſo by Art: Take a gentle Clyſter over night, if you intend to ſweat next morning, or take the like Clyſter in the afternoon,
+<pb n="33" facs="tcp:173099:22"/> if you intend to ſweat at night. An hour before bed-time, and two or three hours after you have eat<g ref="char:EOLhyphen"/>en a light ſupper, is the beſt time both for bathing and ſtoving, becauſe you may lie all night after in your bed, and have your body well refreſh'd and ſettled by morning. Note alſo, that while you are ſweating in a Stove, Bath or Bed, you may refreſh your ſelf with Mace-ale, Egg-caudle, Chicken<g ref="char:EOLhyphen"/>broth, or any convenient Bocheet, ſupping or liquid Aliment.</p>
+            <p n="3">3. When you come out
+<pb n="34" facs="tcp:173099:23"/> of any Stove or Bath, take great care you take not cold: For preventing which, and many other ac<g ref="char:EOLhyphen"/>cidents, nothing hath ever yet been invented compa<g ref="char:EOLhyphen"/>rable to this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Bal<g ref="char:EOLhyphen"/>neum,</hi> and <hi>vaporarium,</hi> now all in one preſented to you; which is ſo ſafe, ſo commodious and effe<g ref="char:EOLhyphen"/>ctual, both for preventing and curing almoſt all Diſ<g ref="char:EOLhyphen"/>eaſes, that nothing ever was, or can be adviſed better, for private Fami<g ref="char:EOLhyphen"/>lies than to have one of them conſtantly in their houſes; it being ſo con<g ref="char:EOLhyphen"/>trived, that it may ſtand in
+<pb n="35" facs="tcp:173099:23"/> any bed-chamber, with as much conveniency and or<g ref="char:EOLhyphen"/>nament, as a well wrought Cheſt of Drawers or Ca<g ref="char:EOLhyphen"/>binet.</p>
+            <p>In <hi>Italy, France, Ger<g ref="char:EOLhyphen"/>many, Turkie,</hi> and many o<g ref="char:EOLhyphen"/>ther Countries, they are ſo curious, and (not with<g ref="char:EOLhyphen"/>out good cauſe) ſo addicted to ſtoving and bathing, that they count their ha<g ref="char:EOLhyphen"/>bitations not compleatly furniſh'd, and well provi<g ref="char:EOLhyphen"/>ded and cared for, until they have them in their houſes, eſteeming them the moſt commendable and neceſſary furniture that be<g ref="char:EOLhyphen"/>longs to them: and ſcarce
+<pb n="36" facs="tcp:173099:24"/> a Family of any remark and quality is to be found without them; and if our Engliſh Gentry, eſpecial<g ref="char:EOLhyphen"/>ly thoſe that live in the Country, remote from Phy<g ref="char:EOLhyphen"/>ſicians, did alſo take up this cuſtom, they would have no cauſe to repent them of their care and con<g ref="char:EOLhyphen"/>ſideration: Beſides, not only their healths, but intereſt and good husbandry might induce them to it, it being the moſt profitable Phy<g ref="char:EOLhyphen"/>ſician and Apothecary they can make uſe of.</p>
+            <p>Another benefit of having them in their houſes, is the accommoda<g ref="char:EOLhyphen"/>tion
+<pb n="37" facs="tcp:173099:24"/> of their ſevants, at<g ref="char:EOLhyphen"/>tendants, bedding and lin<g ref="char:EOLhyphen"/>nen, and the avoiding ma<g ref="char:EOLhyphen"/>ny accidents by lying, bathing or ſtoving after ſtrangers: by this means alſo, they will be encou<g ref="char:EOLhyphen"/>raged to uſe them the oft<g ref="char:EOLhyphen"/>ner; at leaſt 'tis likely it will induce them not to fail, ſpring and fall; thoſe being (though no time a<g ref="char:EOLhyphen"/>miſs) the moſt neceſſary times to prevent Diſeaſes, and preſerve their bodies in a perfect <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, health and integrity the whole year after.</p>
+            <p>I know, and am well aſſured, that Phyſicians
+<pb n="38" facs="tcp:173099:25"/> would frequently adviſe their Patients to ſtoving and bathing, had they them in their own houſes, but the charge and trouble on all occaſions of providing them, does too often diſ<g ref="char:EOLhyphen"/>courage both the Pati<g ref="char:EOLhyphen"/>ent and Phyſician. By this means alſo you may a<g ref="char:EOLhyphen"/>void Spring and Fall, the uſe of Diet-Drinks, Phy<g ref="char:EOLhyphen"/>ſick-ale, and the like, which being at thoſe times ſo raſhly and promiſcu<g ref="char:EOLhyphen"/>ouſly uſed as they are, do more hurt than good. Let<g ref="char:EOLhyphen"/>ting blood alſo in the Spring, may by this means be prevented, only ob<g ref="char:EOLhyphen"/>ſerving
+<pb n="39" facs="tcp:173099:25"/> then a <hi>ſpare</hi> and <hi>cool</hi> Diet, which the An<g ref="char:EOLhyphen"/>cients call'd their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>ſuccedaneum</hi> to blood<g ref="char:EOLhyphen"/>letting: Abſtinence rather than bleeding being their way to abate blood, and prevent diſeaſes: and to deal uprightly in a matter of ſo great concernment, for a preventive, 'tis to be preferred before opening of a Vein, which I do not much fancy, but in caſes of extreme neceſſity, and not upon every trivial diſtem<g ref="char:EOLhyphen"/>per, and occaſion that of<g ref="char:EOLhyphen"/>fers it ſelf: Bood being that which makes blood, and (as the oyl and lamp
+<pb n="40" facs="tcp:173099:26"/> of life) not prodigally to be expended, leſt like the fooliſh Virgins we have our Oyl to buy, when we ſhould have it to burn.</p>
+            <p>The particular benefits of bathing and ſtoving are not eaſily to be reckon<g ref="char:EOLhyphen"/>ed up in a tranſient diſ<g ref="char:EOLhyphen"/>courſe, but that which they are ſo generally fam'd for, is to depurate the bad re<g ref="char:EOLhyphen"/>crements of the blood, the laſſitude, and lumpiſhneſs of the limbs, and to make the whole body brisk, nimble, light and airy.</p>
+            <p>They prevent and cure all Agues, and Fevers of all ſorts, both ardent, he<g ref="char:EOLhyphen"/>ctick,
+<pb n="41" facs="tcp:173099:26"/> putrid and peſtilen<g ref="char:EOLhyphen"/>tial; and in times of con<g ref="char:EOLhyphen"/>tagion, are of abſolute uſe, provided the place they ſweat in (as it common<g ref="char:EOLhyphen"/>ly happeneth) be not in<g ref="char:EOLhyphen"/>fected; which (if for no<g ref="char:EOLhyphen"/>thing elſe) were enough to encourage perſons to have theſe Stoves in their Houſes.</p>
+            <p>And as there is nothing more effectual to prevent the Plague, than ſweating moderately in theſe ſorts of Stoves, once or twice a week: So alſo, if <hi>infected,</hi> nothing can exceed them for a Cure, taking at the ſame time convenient Cor<g ref="char:EOLhyphen"/>dials:
+<pb n="42" facs="tcp:173099:27"/> Nature by a Metaſtaſis, being thereby aſſiſted to throw off the poyſon and venom of the blood, from the Center, to the remote parts of the body, which is the only intention of the cure, the like is to be ſaid of the Small-pox, malig<g ref="char:EOLhyphen"/>nant Fevers, and all conta<g ref="char:EOLhyphen"/>gious diſeaſes.</p>
+            <p>It relieves or cures all ſorts of pains and aches, as Sciatica's, Gouts, <hi>&amp;c.</hi> it cures alſo limbs, that are weak and relax'd, and all cold, and moiſt diſeaſes got by cold.</p>
+            <p>Bathing by the mildneſs of its heat, mollifies and
+<pb n="43" facs="tcp:173099:27"/> relaxes, ſoftens &amp; ſmooths, and on this account is very proper, and very prevalent to cure contracted mem<g ref="char:EOLhyphen"/>bers, and parts obſtructed, either outward or inward, as the breaſt, ſpleen, liver.</p>
+            <p>Bathing alſo, wonder<g ref="char:EOLhyphen"/>fully relieves and eaſeth Nephritick pains, and ſuch as are tortured and trou<g ref="char:EOLhyphen"/>bled with the Stone, Cho<g ref="char:EOLhyphen"/>lick pains, Hemorrhoids, ſtopping of Urine and Courſes, and makes a co<g ref="char:EOLhyphen"/>ſtive belly ſoluble and looſe.</p>
+            <p>All diſeaſes of the ſi<g ref="char:EOLhyphen"/>news, and all internal diſ<g ref="char:EOLhyphen"/>eaſes proceeding from a
+<pb n="44" facs="tcp:173099:28"/> cold and moiſt cauſe, are prevented &amp; cured by <hi>Sto<g ref="char:EOLhyphen"/>ving,</hi> as Rheumes, Palſies, Lethargies, Cramps, Deaf<g ref="char:EOLhyphen"/>neſs, weakneſs, ſwelling and numbneſs of the joynts: 'tis alſo a ſpeci<g ref="char:EOLhyphen"/>fick againſt the Kings-E<g ref="char:EOLhyphen"/>vil and Jaundies, Scabs, Itch, Chilblains, and all efflore ſcences of the skin. In ſhort, it ſo alters and de<g ref="char:EOLhyphen"/>fecates the blood, that you may alter as you will by them and diet, the whole habit of the body, &amp; make it another thing than what it is; like the ſhip at <hi>A<g ref="char:EOLhyphen"/>thens,</hi> though it continued ſtill a ſhip, yet had it not
+<pb n="45" facs="tcp:173099:28"/> by often reparation, one foot of the timber it was firſt built with.</p>
+            <p>And not only ſick and diſeaſed perſons, but ſuch as are in health may receive profit, but no prejudice in the leaſt by them: and my inge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uous friend Mr. <hi>H. H.</hi> has told me, that in his travels to <hi>Ruſſia, Sclavonia,</hi> and other Eaſtern parts of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urope,</hi> he obſerved that in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe Countries, it was no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poſſible for the inha<g ref="char:EOLhyphen"/>biants to live (for want of vntilation) were it not for t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir Stoves, but by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontinual and frequent uſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f them, no people are to
+<pb n="46" facs="tcp:173099:29"/> be found more ſound and healthful; and are thereby ſo little beholden to Phy<g ref="char:EOLhyphen"/>ſick, that the name is ſcarce known among them: and not a place of any note, but has one in them</p>
+            <p>So alſo the Scorbute or Scurvy, by often and fre<g ref="char:EOLhyphen"/>quent Stoving, is rever heard of among thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eo<g ref="char:EOLhyphen"/>ple (though for wan of perſpiration) they would elſe be inclin'd to it more than we in <hi>England.</hi> 'Tis their only refuge alſo to prevent Fevers, Gou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Palſies, <hi>&amp;c.</hi> after they ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e debauch'd themſelves wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> high drinking, which the
+<pb n="47" facs="tcp:173099:29"/> people, to the great ſcan<g ref="char:EOLhyphen"/>dal of their Country, are moſt infamouſly addicted unto.</p>
+            <p>Many people, eſpecial<g ref="char:EOLhyphen"/>ly ſuch as are Hyſterick and Hypocondriack, by Stoving in common Stoves and Hot-houſes, are ſub<g ref="char:EOLhyphen"/>ject to fumes, head-ach, ſwounings, and ſuffocating vapours: But in this ſort of Stove, (the head being in the open Air, all the while they ſweat) theſe and many other evil acci<g ref="char:EOLhyphen"/>dents are prevented, nor are they at all offended with any noiſome vapours or ſuffocating fumes.</p>
+            <div type="part">
+               <pb n="48" facs="tcp:173099:30"/>
+               <head>The manner of uſing it is thus.</head>
+               <p>Your body being made ſo<g ref="char:EOLhyphen"/>luble by ſome gentle Lenitive or Clyſter, go naked into the Stove; ſtay in it about half an hour more or leſs to your con<g ref="char:EOLhyphen"/>tent, or the nature of your diſeaſe, taking while you ſweat ſome comfortable ſupping, as Mace ale, or whatever elſe may be adviſed by your Phyſician: while you are ſweating, you may increaſe or decreaſe the heat your ſelf, and ſweat as you pleaſe; after you have ſweat to your content, you may have the Flammifers, or fire Veſſels remov'd; and the neck-board ſlided away, and ſo ſlip down into the wet Bath, and there waſh off the recrements, the ſlime and filth of your former ſweat, with balls invented for
+<pb n="49" facs="tcp:173099:30"/> that purpoſe: Then (after you have bathed about half an hour) ſtand upon your feet, and wipe your body dry, &amp; ſtep out of the Bath into a warm Bed, and lye warm till your body be well ſettled, and afterwards riſe, and having taken ſome warm broth, you may go a<g ref="char:EOLhyphen"/>broad, renewed to admiration, and ſufficiently recompenced for what you have done.</p>
+               <p>That which we call <hi>vapora<g ref="char:EOLhyphen"/>rium,</hi> is a place in the Stove, contriv'd chiefly for diſeaſes of the Womb, <hi>Anus,</hi> and diſeaſes of the inferiour belly; as Dyſ<g ref="char:EOLhyphen"/>enteries, Hemorrhoids, Can<g ref="char:EOLhyphen"/>cers, and fiſtulated Ulcers, Scyrrhous tumours, Barrenneſs, Abortion, Menſes, Secundines, and every <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and were it for nothing elſe but de<g ref="char:EOLhyphen"/>cency (<hi>Cùm vapor per infundi<g ref="char:EOLhyphen"/>bulum &amp; fiſtulam plumbeam, in
+<pb n="50" facs="tcp:173099:31"/> 
+                     <g ref="char:V">Ʋ</g>terum, vel anum ingredia<g ref="char:EOLhyphen"/>tur</hi>) it was enough to induce private Familes and perſons to have one of theſe Stoves by them.</p>
+               <p>It ſtill remains, that I give ſome account of the Hydro<g ref="char:EOLhyphen"/>ticks which feed the Flammi<g ref="char:EOLhyphen"/>fers; or <hi>how</hi> and <hi>what</hi> it is that cauſeth the patient to ſweat; it is not cauſed by any groſs mate<g ref="char:EOLhyphen"/>rial fire of wood, coles, <hi>&amp;c.</hi> as the common Chairs and Stoves are, but 'tis by an eſſential Oyl, cohibited by retorts with well rectified Spirit of Wine; and if you have the true exalt<g ref="char:EOLhyphen"/>ed, and perfect Oyly-ſpirit ſo well incorporated, and ſepa<g ref="char:EOLhyphen"/>rated from its phlegm, as it ought, it will penetrate, and prove as active as lightning it ſelf.</p>
+               <p>There are ſome who know
+<pb n="51" facs="tcp:173099:31"/> no better, who do in theſe caſes uſe common Brandy, and our poor, mean Engliſh Spirits, and they ſucceed in their cures ac<g ref="char:EOLhyphen"/>cordingly, there being ſeldom any viſible or manifeſt benefit received by it: Whereas, thoſe mighty and potent diſ<g ref="char:EOLhyphen"/>eaſes, of a confirm'd knotted Gout, an ulcerated Kings-evil, Palſies, and the like, are fre<g ref="char:EOLhyphen"/>quently ſubdued by the Oyly ſpirit rightly prepared<g ref="char:punc">▪</g> as might be made appear, did it not ſa<g ref="char:EOLhyphen"/>vour too much of the <hi>Pſeudo<g ref="char:EOLhyphen"/>chymiſt,</hi> the Mountebank and Mechanick.</p>
+               <p>All that I have elſe to add, being confined to a ſhort Trea<g ref="char:EOLhyphen"/>tiſe, and ſuppoſing that after the publiſhing this manner of Bathing and Stoving, there will be no want of undertakers, and ſuch as will pretend to the utmoſt that can be done by it;
+<pb n="52" facs="tcp:173099:32"/> yet, that abuſes may be pre<g ref="char:EOLhyphen"/>vented, and none but wilful people deceived, this is to ſig<g ref="char:EOLhyphen"/>nifie, that the very ſame pre<g ref="char:EOLhyphen"/>paration of Spirits for the Flammifers, that produce thoſe great effects by ſweat, and that I uſe my ſelf, may be had at Mr. <hi>Briggs</hi> an Apothecary, at his houſe by <hi>Abb-Church</hi> near <hi>Cannon<g ref="char:punc">▪</g> ſtreet:</hi> or in <hi>Spittle<g ref="char:EOLhyphen"/>fields</hi> near the <hi>Salmon.</hi> By the help of which Spirit, any that have theſe Stoves of their own, may do as much with them to<g ref="char:EOLhyphen"/>wards curing themſelves, as can be done for them, by the moſt mighty hand, and moſt magni<g ref="char:EOLhyphen"/>fi'd Medicine of a Chymiſt.</p>
+               <p>Thoſe that deſire more ample ſatisfaction on this ſubject may read <hi>Galen, de ſanitat. tuend.</hi> The Learned Lord <hi>Verulam, de vit. &amp; morte:</hi> And the wiſe <hi>Se<g ref="char:EOLhyphen"/>neca's Epiſt. de Baln.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:173099:32"/>
+            <head>Books ſold by <hi>Dorman Newman,</hi> at the <hi>King's Arms</hi> in the <hi>Poultry.</hi>
+            </head>
+            <list>
+               <head>Folio.</head>
+               <item>THe Regular Architect: Or the General Rule of the five Orders of Ar<g ref="char:EOLhyphen"/>chitecture of Mr. <hi>Giacomo Ba<g ref="char:EOLhyphen"/>rozzio Da Vignola.</hi> With a new Addition of <hi>Michael Ange<g ref="char:EOLhyphen"/>lo Buonaroti.</hi> Rendred into Engliſh from the Original Ita<g ref="char:EOLhyphen"/>lian, and explained by <hi>John Leeke,</hi> Student in the Mathema<g ref="char:EOLhyphen"/>ticks, for the uſe and benefit of free Maſons, Carpenters, Joy<g ref="char:EOLhyphen"/>ners, Carvers, Painters, Brick<g ref="char:EOLhyphen"/>layers, Playſterers: In General for all Ingenious Perſons that are concerned in the famous Art of Building.</item>
+            </list>
+            <list>
+               <pb facs="tcp:173099:33"/>
+               <head>Quarto.</head>
+               <item>
+                  <hi>A Golden Key to open hidden Treaſures,</hi> or ſeveral great Points which refer to the Saints pre<g ref="char:EOLhyphen"/>ſent bleſſedneſs, and their future happineſs, with the Reſolution of ſeveral important Queſtions, the Active and Paſſive obedi<g ref="char:EOLhyphen"/>ence of Chriſt vindicated and improved, II. ſerious ſingular Pleas, which all ſincere Chri<g ref="char:EOLhyphen"/>ſtians may ſafely make to thoſe 10. Scriptures, which Speak of the General Judgement, and of the Particular Judgement that muſt certainly paſs on all, <hi>&amp;c.</hi> the firſt and ſecond part. By <hi>Tho. Brooks,</hi> late Preacher of the Goſpel at <hi>Margarets</hi> New Fiſh<g ref="char:EOLhyphen"/>ſtreet.</item>
+               <item>A Practical Expoſition of the Ten Commandments: With a reſolution of ſeveral Momen<g ref="char:EOLhyphen"/>tous Queſtions and Caſes of
+<pb facs="tcp:173099:33"/> Conſcience. By the Learned Laborious, and Faithful Servant of Jeſus Chriſt, <hi>James Durham.</hi> Late Miniſter of the Goſpel at <hi>Glaſgow.</hi>
+               </item>
+               <item>
+                  <hi>Paradice opened:</hi> Or the Se<g ref="char:EOLhyphen"/>crets, Myſteries, and Rarities of Divine Love, of Infinite Wiſ<g ref="char:EOLhyphen"/>dom, and of Wonderful Coun<g ref="char:EOLhyphen"/>ſel, laid open to Publick View. Alſo the Covenant of Grace, and the high and glorious Tranſactions of the Father and the Son in the Covenant of Redemption opened, and im<g ref="char:EOLhyphen"/>proved at large, with the Reſo<g ref="char:EOLhyphen"/>lution of divers important Que<g ref="char:EOLhyphen"/>ſtions and Caſes concerning both Covenants. To which is added a ſober and ſerious Diſ<g ref="char:EOLhyphen"/>courſe, about the Favourable, Signal and Eminent Preſence of the Lord with his people in their greateſt Troubles, deep<g ref="char:EOLhyphen"/>eſt Diſtreſſes, and moſt deadly
+<pb facs="tcp:173099:34"/> Dangers. Being the Second and Laſt Part of the <hi>Golden Key.</hi> By <hi>Thomas Brooks,</hi> late Prea<g ref="char:EOLhyphen"/>cher of the Goſpel, at <hi>Margarets</hi> New-Fiſhſtreet.</item>
+               <item>Letters of Advice from two Reverend Divines, to a young Gentleman about a weighty Caſe of Conſcience, and by him recommended to the ſerious peruſal of all thoſe that may fall into the ſame Condition.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173099:34"/>
+         </div>
+      </back>
+   </text>
+</TEI>
